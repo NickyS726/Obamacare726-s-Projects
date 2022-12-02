@@ -1,0 +1,61 @@
+div {font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color:  rgba(252,70,107,1);
+    margin: 0%;
+}
+
+.links {
+    text-decoration: none;
+    color: rgb(63,94,251);
+    text-align: center;
+}
+
+#projects {
+    height: 20%;
+    width: 100%;
+    margin-top: 2%;
+    font-size: 150%;
+    position: relative;
+    color: rgb(63,94,251);
+    text-decoration: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#title {
+    background-color:  rgba(63,94,251,1); 
+    height: 30%;
+    width: 100%;
+    font-size: 300%;
+    top: 0%;
+    left: 0%;
+    position: relative;
+    text-align: center;
+    padding-top: 4%;
+    padding-bottom: 5%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#gradient  {
+    width: 100%;
+    height: 10%;
+    background: rgb(63,94,251);
+    background: linear-gradient(180deg, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+    font-size: 200%;
+    color: transparent;
+}
+
+#projectTitle {
+    background-color: rgba(252,70,107,1) 100%;
+    font-size: 250%;
+    margin-left: 2%;
+    margin-right: auto;
+    position: relative;
+    color: rgba(63,94,251,1);
+
+}
+
+
