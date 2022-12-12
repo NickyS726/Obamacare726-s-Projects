@@ -73,3 +73,10 @@ body {
 a {
     text-decoration: none;
 }
+
+.pictures {
+    position: absolute;
+    scale: 0.5;
+    top: 18%;
+    left: 11%;
+}
